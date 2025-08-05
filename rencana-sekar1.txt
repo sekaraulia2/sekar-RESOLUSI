@@ -3,11 +3,9 @@ rencana sekar
 *tidak begadang dan tidur lebih awal
 *memasang alarm
 -memilih makanan yang sehat dan bergizi
-^ empat sehat lima sempurna
-^ perbanyak minum air putih
+^ empat sehat lima sempurna 
 -olahraga secara rutin
 ^ jalan jalan
 ^ workout
-^ senam pagi
 -bisa membagi waktu
 -mengurangi bermain handphone
