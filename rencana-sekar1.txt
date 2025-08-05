@@ -4,6 +4,7 @@ rencana sekar
 *memasang alarm
 -memilih makanan yang sehat dan bergizi
 ^ empat sehat lima sempurna 
+^ minum vitamin
 -olahraga secara rutin
 ^ jalan jalan
 ^ workout
